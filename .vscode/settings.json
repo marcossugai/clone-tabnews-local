@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["datname", "Epilif", "pgmigrations", "postgres", "tabnews"]
+  "cSpell.words": [
+    "datname",
+    "Epilif",
+    "isready",
+    "pgmigrations",
+    "postgres",
+    "tabnews"
+  ]
 }
